@@ -1,6 +1,8 @@
 # ts_23_altium-project (Rename to your project title!)
 Template repository for Team Swinburne Altium based projects (Change after creating repository!)
 
+Hit the use this as template, to use this as a template!
+
 # Instructions for creating new repository (Delete this section)
 This is a template repository; use this to create a new repository. Create a single folder for your project, with the Altium project inside.
 
